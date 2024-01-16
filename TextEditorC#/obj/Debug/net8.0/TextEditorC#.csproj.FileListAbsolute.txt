@@ -1,0 +1,14 @@
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\TextEditorC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\TextEditorC#.AssemblyInfoInputs.cache
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\TextEditorC#.AssemblyInfo.cs
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\TextEditorC#.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\bin\Debug\net8.0\TextEditorC#.exe
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\bin\Debug\net8.0\TextEditorC#.deps.json
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\bin\Debug\net8.0\TextEditorC#.runtimeconfig.json
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\bin\Debug\net8.0\TextEditorC#.dll
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\bin\Debug\net8.0\TextEditorC#.pdb
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\TextEditorC#.dll
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\refint\TextEditorC#.dll
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\TextEditorC#.pdb
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\TextEditorC#.genruntimeconfig.cache
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\TextEditorC#\obj\Debug\net8.0\ref\TextEditorC#.dll

@@ -1,0 +1,14 @@
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\bin\Debug\net8.0\CronometroC#.exe
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\bin\Debug\net8.0\CronometroC#.deps.json
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\bin\Debug\net8.0\CronometroC#.runtimeconfig.json
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\bin\Debug\net8.0\CronometroC#.dll
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\bin\Debug\net8.0\CronometroC#.pdb
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\CronometroC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\CronometroC#.AssemblyInfoInputs.cache
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\CronometroC#.AssemblyInfo.cs
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\CronometroC#.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\CronometroC#.dll
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\refint\CronometroC#.dll
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\CronometroC#.pdb
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\CronometroC#.genruntimeconfig.cache
+C:\Users\Matheus Vinagre\Documents\SitesAleatorios\CronometroC#\obj\Debug\net8.0\ref\CronometroC#.dll

@@ -1,0 +1,14 @@
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\bin\Debug\net8.0\EditorHMTL.exe
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\bin\Debug\net8.0\EditorHMTL.deps.json
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\bin\Debug\net8.0\EditorHMTL.runtimeconfig.json
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\bin\Debug\net8.0\EditorHMTL.dll
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\bin\Debug\net8.0\EditorHMTL.pdb
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\EditorHMTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\EditorHMTL.AssemblyInfoInputs.cache
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\EditorHMTL.AssemblyInfo.cs
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\EditorHMTL.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\EditorHMTL.dll
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\refint\EditorHMTL.dll
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\EditorHMTL.pdb
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\EditorHMTL.genruntimeconfig.cache
+C:\Users\Matheus Vinagre\documents\sitesaleatorios\EDITORHMTL\obj\Debug\net8.0\ref\EditorHMTL.dll
